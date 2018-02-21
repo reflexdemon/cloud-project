@@ -1,0 +1,13 @@
+{
+    "name": "Cloud Project",
+    "description": "Sample for the blog on blog.vpv.io and example to demonstrate spring boot app on cloud",
+    "repository": "https://github.com/reflexdemon/cloud-project",
+    "keywords": [
+        "java",
+        "spring",
+        "boot",
+        "springboot",
+        "blog",
+        "example"
+    ]
+}
