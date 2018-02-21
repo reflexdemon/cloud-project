@@ -6,6 +6,7 @@
 $ curl https://start.spring.io/starter.tgz -d dependencies=web \
 -d language=java -d type=gradle-project -d baseDir=cloud-project | tar -xzvf -
 ```
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
 
 ## Links
 
