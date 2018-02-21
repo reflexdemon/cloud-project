@@ -9,5 +9,7 @@ $ curl https://start.spring.io/starter.tgz -d dependencies=web \
 
 ## Links
 
-||Heroku||https://hero-boot.herokuapp.com/greeting|
-||Own DNS||http://hero-boot.vpv.io|
+
+| Heroku                                   | Own DNS                                  |
+| ---------------------------------------- | ---------------------------------------- |
+| https://hero-boot.herokuapp.com/greeting | http://hero-boot.vpv.io                  |
