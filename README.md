@@ -11,6 +11,6 @@ $ curl https://start.spring.io/starter.tgz -d dependencies=web \
 ## Links
 
 
-| Heroku                                   | Own DNS                                  |
-| ---------------------------------------- | ---------------------------------------- |
-| https://hero-boot.herokuapp.com/greeting | http://hero-boot.vpv.io                  |
+| Heroku                                   | Own DNS                                  |  HTTPS                             |
+| ---------------------------------------- | ---------------------------------------- |----------------------------------- |
+| https://hero-boot.herokuapp.com/greeting | http://venkatvp.site                     |  https://venkatvp.site             |
